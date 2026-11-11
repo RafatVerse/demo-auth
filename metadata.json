@@ -1,0 +1,6 @@
+{
+  "name": "VESDI Auth",
+  "description": "iOS-inspired smooth TOTP authenticator app with live 60fps countdowns, QR code scanner, manual secret entry, and instant export.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
